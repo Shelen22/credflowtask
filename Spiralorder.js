@@ -1,9 +1,7 @@
 let matrix = [
-  [1, 2, 3, 4],
-  [5, 6, 7, 8],
-  [9, 10, 11, 12],
+  [1, 2, 3, 4]
 ];
-let N = 3; // number of rows
+let N = 1; // number of rows
 let M = 4; // number of columns
 
 function Spiralorder(N, M, matrix) {
